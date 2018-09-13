@@ -26,11 +26,12 @@
   "homepage": "https://github.com/verdie-g/react-leaflet-rotatedmarker#readme",
   "peerDependencies": {
     "prop-types": "^15.6.0",
-    "react-leaflet": "^1.7.8",
-    "react": "^16.2.0"
+    "react": "^16.3.0",
+    "react-leaflet": "^2.0.1"
   },
   "dependencies": {
-    "leaflet-rotatedmarker": "^0.2.0"
+    "leaflet-rotatedmarker": "^0.2.0",
+    "react": "^16.3.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
